@@ -1,6 +1,7 @@
 # ChromeToolbar
 AppleScript program to make toolbar show and hide with mouse movement 
 
+'''
 set AppleScript's text item delimiters to ","
 set tabHidden to false
 repeat
@@ -24,3 +25,4 @@ repeat
 	end if
 	delay 0.5
 end repeat
+'''
